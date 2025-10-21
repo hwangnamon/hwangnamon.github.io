@@ -1,4 +1,4 @@
-## Hi there 👋
+## 모두 안녕? 👋
 
 <!--
 **hwangnamon/hwangnamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
