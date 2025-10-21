@@ -7,7 +7,7 @@
 # intro
 
 >안녕하세요 3d를 이용해서 컨텐츠를 만들고 싶어하는 황승빈입니다!
->게임 엔진이나 섭스탠스 디자이너를 대체 할 수 있는 블렌더 애드온을 만드는걸 목표로 삼고 있습니다.
+>게임 엔진이나 서브 스턴스 페인터를 대체 할 수 있는 블렌더 애드온을 만드는걸 목표로 삼고 있습니다.
 
 <!--
 **hwangnamon/hwangnamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
